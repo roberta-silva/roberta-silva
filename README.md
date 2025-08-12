@@ -8,7 +8,6 @@
 
 [![Meu LinkedIn](https://img.shields.io/badge/Meu%20LinkedIn-000000?style=flat&logo=linkedin&logoColor=e7e7e7&color=e7e7e7&labelColor=00000000)](https://www.linkedin.com/in/robertadasilva)
 [![robertadasilva.contato@gmail.com](https://img.shields.io/badge/robertadasilva.contato@gmail.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:robertadasilva.contato@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](https://wa.me/5551996950929)
 
 ## Minhas Skills
 
