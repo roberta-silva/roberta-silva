@@ -16,4 +16,4 @@ Trago comigo uma sólida experiência administrativa que potencializa meu trabal
 
 ### Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,vscode,git,github,figma)](https://skillicons.dev)
