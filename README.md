@@ -17,3 +17,6 @@ Trago comigo uma sólida experiência administrativa que potencializa meu trabal
 ### Minhas Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,vscode,git,github,figma)](https://skillicons.dev)
+
+![Linguagens](https://gist.github.com/roberta-silva/ca917abe3a36857dd18b379a43f3267f/raw/languages.svg)
+
