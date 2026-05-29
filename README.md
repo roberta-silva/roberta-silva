@@ -13,7 +13,7 @@ Venho do setor administrativo e trouxe comigo habilidades que fazem diferença n
 
 
 ### Minhas Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,nodejs,git,github,figma)](https://skillicons.dev)
 
 ### Estatísticas
 ![Linguagens](https://gist.githubusercontent.com/roberta-silva/ca917abe3a36857dd18b379a43f3267f/raw/github-metrics.svg)
