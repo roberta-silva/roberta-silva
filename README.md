@@ -5,12 +5,12 @@
 [![robertadasilva.contato@gmail.com](https://img.shields.io/badge/robertadasilva.contato@gmail.com-e7e7e7?style=flat&logo=gmail&logoColor=000000&color=e7e7e7&labelColor=e7e7e7)](mailto:robertadasilva.contato@gmail.com)
 
 
-- 👩‍💻 Desenvolvedora
+- 👩‍💻 Desenvolvedora Júnior na Appmax
 - ⚙️ Construindo projetos para consolidar conhecimentos em desenvolvimento de software e engenharia de software
-- 🌱 Aprofundando meus estudos em Go, backend, arquitetura de aplicações e boas práticas de desenvolvimento, sem deixar de lado a base construída com JavaScript e React
-- 📖 Estudante de Análise e Desenvolvimento de Sistemas na PUCRS e estagiária em Engenharia de Software
+- 🌱 Meu foco atual de estudos é Go, com ênfase em backend, arquitetura de aplicações e boas práticas de desenvolvimento. JavaScript e React são a base que já construí
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas na PUCRS
 
-Comecei minha trajetória na área administrativa, onde desenvolvi uma visão estruturada de processos, atenção aos detalhes e senso de responsabilidade e foco em resultados. Hoje aplico essa experiência na engenharia de software, buscando compreender como os sistemas funcionam em produção e construir soluções cada vez mais confiáveis e bem estruturadas.
+Comecei minha trajetória nas áreas administrativa e fiscal, onde desenvolvi uma visão estruturada de processos, atenção aos detalhes, senso de responsabilidade e foco em resultados. Hoje aplico essa experiência na engenharia de software, especialmente em sistemas financeiros, buscando compreender como os sistemas funcionam em produção e construir soluções cada vez mais confiáveis e bem estruturadas.
 
 
 ### Minhas Skills
